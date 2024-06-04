@@ -49,7 +49,7 @@ header p {
 }
 
 .hero-content p {
-  font-size: 2rem; /* Use viewport width units */
+  font-size: 1rem; /* Use viewport width units */
   line-height: 1.5;
   margin-bottom: 2vw; /* Use viewport width units */
 }
@@ -74,7 +74,7 @@ header p {
 
 .hero-content button {
   background-color: #2196F3; /* Blue color for button */
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   color: #fff;
   padding: 1vw 2vw; /* Use viewport width units */
   border: none;
