@@ -15,13 +15,13 @@ header {
 }
 
 header h1 {
-  font-size: 6vw; /* Use viewport width units */
+  font-size: 3rem; /* Use viewport width units */
   margin: 0;
   color: #2196F3; /* Blue color for heading */
 }
 
 header p {
-  font-size: 4vw; /* Use viewport width units */
+  font-size: 1rem; /* Use viewport width units */
   margin: 2vw 0; /* Use viewport width units */
   color: #666; /* Gray color for subheading */
 }
@@ -49,7 +49,7 @@ header p {
 }
 
 .hero-content p {
-  font-size: 4vw; /* Use viewport width units */
+  font-size: 2rem; /* Use viewport width units */
   line-height: 1.5;
   margin-bottom: 2vw; /* Use viewport width units */
 }
@@ -62,7 +62,7 @@ header p {
 
 .hero-content label {
   display: block;
-  font-size: 4vw;
+  font-size: 1rem;
   margin-bottom: 1vw; /* Use viewport width units */
 }
 
@@ -74,7 +74,7 @@ header p {
 
 .hero-content button {
   background-color: #2196F3; /* Blue color for button */
-  font-size: 4vw;
+  font-size: 1.4rem;
   color: #fff;
   padding: 1vw 2vw; /* Use viewport width units */
   border: none;
@@ -88,7 +88,7 @@ header p {
 
 /* Adjustments for Hero Image */
 .hero-content img {
-  max-width: 100%; /* Define largura máxima para a imagem */
+  max-width: 75%; /* Define largura máxima para a imagem */
   height: auto; /* Mantém a proporção da imagem */
   margin-top: 5vw; /* Adiciona margem superior para espaçamento */
 }
@@ -101,7 +101,7 @@ header p {
 
 .benefits h2 {
   text-align: center;
-  font-size: 3vw; /* Use viewport width units */
+  font-size: 2rem; /* Use viewport width units */
   margin-bottom: 2vw; /* Use viewport width units */
   color: #2196F3; /* Blue color for heading */
 }
@@ -132,7 +132,7 @@ header p {
 
 .testimonials {
   max-height: 80%;
-  max-width: 100%;
+  max-width: 85%;
   padding: 5vw 0; /* Use viewport width units */
   background-color: #fff;
 }
@@ -142,13 +142,13 @@ header p {
   top: 0;
   left: 50%;
   transform: translateX(+5%);
-  font-size: 3vw; /* Use viewport width units */
+  font-size: 2rem; /* Use viewport width units */
   margin-bottom: 2vw; /* Use viewport width units */
   color: #2196F3; /* Blue color for heading */
 }
 
 .testimonials p {
-  font-size: 4vw; /* Use viewport width units */
+  font-size: 1rem; /* Use viewport width units */
   line-height: 1.5;
   margin: 2vw; /* Use viewport width units */
 }
